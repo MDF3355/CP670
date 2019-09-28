@@ -5,4 +5,12 @@
     <string name="Login">Login</string>
     <string name="login_name">Login name</string>
     <string name="password">password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="Switch_text">What does this do?</string>
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="dialog_title">Close or not</string>
+    <string name="okButtonTxt">OK</string>
+    <string name="cancelButtonTxt">Cancel</string>
 </resources>
